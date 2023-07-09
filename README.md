@@ -9,7 +9,7 @@
   <div>- npm run dev ⇒ run app</div>
 </div>
 <div>
-  <div><strong>12. Theme</strong></div>
+  <div><strong>2. Theme</strong></div>
   <div>* Require</div>
   <div> - Ruby or Ruby+Devkit using RubyInstaller for Windows 2.7 or higher</div>
   <div> - Nodejs & npm</div>
