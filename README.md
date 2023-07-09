@@ -9,7 +9,7 @@
   <div>- npm run dev ⇒ run app</div>
 </div>
 <div>
-## 🛠️ Installation Steps
+🛠️ Installation Steps Theme
   <div>* Require</div>
   <div> - Ruby or Ruby+Devkit using RubyInstaller for Windows 2.7 or higher</div>
   <div> - Nodejs & npm</div>
